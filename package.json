@@ -1,0 +1,23 @@
+{
+    "name": "node-red-project",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "node-red-contrib-alexa-smart-home": "~0.4.68",
+        "node-red-contrib-boolean-logic-ultimate": "~1.0.52",
+        "node-red-contrib-deadmanswitch": "~1.0.1",
+        "node-red-contrib-google-cloud-text-to-speech": "~1.0.9",
+        "node-red-contrib-google-home-notifier-offline": "~1.1.1",
+        "node-red-contrib-google-home-notify-volume-adjustable": "0.0.11",
+        "node-red-contrib-google-oauth-calendar": "~0.1.1",
+        "node-red-contrib-google-smarthome": "~0.3.5",
+        "node-red-contrib-ical-events": "~2.2.0",
+        "node-red-contrib-message-queue": "~1.1.6",
+        "node-red-contrib-queue-gate": "~1.5.5",
+        "node-red-contrib-simpletime": "~2.10.4",
+        "node-red-contrib-string": "~1.0.0",
+        "node-red-google-notify": "~1.4.8",
+        "node-red-node-pushover": "~0.1.1"
+    }
+}
